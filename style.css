@@ -1,0 +1,49 @@
+
+body {
+    background-color:gray;    
+}
+
+h1 {
+    margin: 25px;    
+    display: flex;
+    justify-content: center;
+}
+
+#line {
+    display: flex;
+    justify-content: center;
+}
+
+#line2 {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+#ul {
+    list-style: none;
+    width: 400px;
+}
+
+.ul .li {
+     width: 100%;
+     background: wheat;
+    height: 25px;
+    margin: 5px;
+}
+
+.ul .li .span {
+    position: absolute;
+    right: 230px;
+    width: 50px;
+    height: 25px;
+    text-align: center;
+    background-color: red;
+    cursor: pointer;
+
+}
+
+#col{
+    background-color:teal;    
+}
+
